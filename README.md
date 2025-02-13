@@ -20,13 +20,19 @@ default-agent
 
 exit
 
-# Aquire bt-tether.sh and make sure its executable
+# Aquire bt-tether.sh:
 
 sudo wget "https://github.com/C0d3-5t3w/Bjorn-bt-tether/blob/main/bt-tether.sh"
 
+# Make sure its executable:
+
 sudo chmod +x bt-tether.sh
 
-# now you can run 'sudo ./bt-tether.sh' and you should be given these options:
+# Now you can run: 
+
+sudo ./bt-tether.sh 
+
+# You should be given these options:
 
 Enter Bluetooth device MAC (e.g., A1:11:1B:C1:D1:E1):
 
@@ -36,12 +42,14 @@ Enter static ip (e.g., 172.20.10.6 for ios 192.168.44.1 for andriod):
 
 Enter gateway (e.g., 255.255.255.0):
 
-# after that reboot!
+# After that reboot!
 
 Your device should connect to the bluetooth network giving you internet access while not on a wifi 
 network and to create a persistent and mobile connection without cords between wifi network hops.
 
-# ENJOY!!! if you have any issues find and @ me in the Bjorn discord: https://discord.gg/tJxEes2G
+# ENJOY!!! if you have any issues find and @ me in the Bjorn discord: 
+
+https://discord.gg/tJxEes2G
 
 # If you want to give me a tip i accept monero:
 
