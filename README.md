@@ -35,7 +35,7 @@ Enter gateway (e.g., 255.255.255.0):
 Your device should connect to the bluetooth network giving you internet access while not on a wifi 
 network and to create a persistent and mobile connection without cords between wifi network hops.
 
-# ENJOY!!! if you have any issues find and @ me in the Bjorn discord: 
+# ENJOY!!! if you have any issues find and @ me in the Bjorn discord: https://discord.gg/tJxEes2G
 
 # If you want to give me a tip i accept monero:
 
