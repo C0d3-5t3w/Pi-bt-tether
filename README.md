@@ -1,8 +1,8 @@
-# Bjorn-bt-tether
+# Bjorn-bt-tether:
 
 Allows you to use Bjorn over bluetooth network.
 
-# First you need to connect make the bluetooth connection
+# First you need to make the bluetooth connection that we'll modify:
 
 sudo bluetoothctl
 
@@ -30,7 +30,7 @@ Enter static ip (e.g., 172.20.10.6 for ios 192.168.44.1 for andriod):
 
 Enter gateway (e.g., 255.255.255.0):
 
-# after that reboot
+# after that reboot!
 
 Your device should connect to the bluetooth network giving you internet access while not on a wifi 
 network and to create a persistent and mobile connection without cords between wifi network hops.
