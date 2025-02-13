@@ -1,6 +1,6 @@
 # Bjorn-bt-tether:
 
-Allows you to use Bjorn over bluetooth network.
+Allows you to use Bjorn or any pi over bluetooth network.
 
 # First you need to make the bluetooth connection that we'll modify:
 
