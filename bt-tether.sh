@@ -6,7 +6,7 @@
 # --------------------------------------------------------------------
 # This script is a part of the Bjorn project
 # Bjorn is a collection of scripts to automate the process of network penetration testing
-# Created INFINITION <github.com/infinition/Bjorn> under MIT license
+# Created by INFINITION <github.com/infinition/Bjorn> under MIT license
 # --------------------------------------------------------------------
 # Usage: ./bt-tether.sh
 # --------------------------------------------------------------------
