@@ -20,6 +20,12 @@ default-agent
 
 exit
 
+# Aquire bt-tether.sh and make sure its executable
+
+sudo wget ""
+
+sudo chmod +x bt-tether.sh
+
 # now you can run 'sudo ./bt-tether.sh' and you should be given these options:
 
 Enter Bluetooth device MAC (e.g., A1:11:1B:C1:D1:E1):
