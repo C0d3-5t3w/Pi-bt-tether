@@ -50,6 +50,10 @@ sudo ifmetric bnep0 100
 
 sudo reboot
 
+You can view network metics using 'route -n' 
+
+The lower the metric the higher the priority
+
 # ENJOY!!! if you have any issues find and @ me in the Bjorn discord: 
 
 https://discord.gg/tJxEes2G
