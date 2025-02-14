@@ -42,10 +42,15 @@ Enter static ip (e.g., 172.20.10.6 for ios 192.168.44.1 for andriod):
 
 Enter gateway (e.g., 255.255.255.0):
 
-# After that reboot!
+# Now to make ure network priority wont cause bjorn to scan the bt network:
 
-Your device should connect to the bluetooth network giving you internet access while not on a wifi 
-network and to create a persistent and mobile connection without cords between wifi network hops.
+sudo apt-get install ifmetric
+
+sudo ifmetric wlan0 0
+
+sudo ifmetric bnep0 1
+
+sudo reboot
 
 # ENJOY!!! if you have any issues find and @ me in the Bjorn discord: 
 
