@@ -40,7 +40,7 @@ Enter static ip (e.g., 172.20.10.6 for ios 192.168.44.1 for andriod):
 
 Enter gateway (e.g., 255.255.255.0):
 
-# Now to make ure network priority wont cause bjorn to scan the bt network:
+# Now to make sure network priority wont cause bjorn to scan the bt network:
 
 sudo apt-get install ifmetric
 
