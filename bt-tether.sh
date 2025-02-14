@@ -4,8 +4,7 @@
 # Description: A shell script to tether internet using bluetooth for Bjorn
 # --------------------------------------------------------------------
 # This script is an unofficial part of the Bjorn project.
-# Bjorn is a collection of scripts to automate the process of 
-# network penetration testing.
+# Bjorn is a collection of scripts to automate the process of network penetration testing.
 # Created by INFINITION <github.com/infinition/Bjorn> under MIT license
 # --------------------------------------------------------------------
 # Usage: sudo ./bt-tether.sh
