@@ -44,9 +44,9 @@ Enter gateway (e.g., 255.255.255.0):
 
 sudo apt-get install ifmetric
 
-sudo ifmetric wlan0 0
+sudo ifmetric wlan0 50
 
-sudo ifmetric bnep0 1
+sudo ifmetric bnep0 100
 
 sudo reboot
 
