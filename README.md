@@ -22,7 +22,7 @@ exit
 
 # Aquire bt-tether.sh:
 
-sudo wget "https://github.com/C0d3-5t3w/Bjorn-bt-tether/blob/main/bt-tether.sh"
+sudo wget "https://raw.githubusercontent.com/C0d3-5t3w/Bjorn-bt-tether/refs/heads/main/bt-tether.sh"
 
 # Make sure its executable:
 
