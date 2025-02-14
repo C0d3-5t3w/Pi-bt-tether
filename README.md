@@ -14,8 +14,6 @@ yes
 
 trust <Your phone's MAC address>
 
-connect <Your phone's MAC address>
-
 default-agent
 
 exit
