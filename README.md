@@ -1,4 +1,4 @@
-# Bjorn-bt-tether:
+# Bjorn-pi-bt-tether:
 
 Allows you to use Bjorn or any pi over bluetooth network.
 
