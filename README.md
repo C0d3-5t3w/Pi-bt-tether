@@ -36,7 +36,7 @@ Enter Bluetooth device MAC (e.g., A1:11:1B:C1:D1:E1):
 
 Enter phone connection name (e.g., 5T3W):
 
-Enter static ip (e.g., 172.20.10.6 for ios 192.168.44.1 for andriod):
+Enter static ip (e.g., 172.20.10.1 for ios 192.168.44.1 for andriod):
 
 Enter gateway (e.g., 255.255.255.0):
 
