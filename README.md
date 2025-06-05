@@ -70,6 +70,10 @@ sudo apt-get install ifmetric
 
 * The lower the metric the higher the priority
 
+```bash
+sudo ifmetric <device> <metricvalue>
+```
+
 # If you want to give me a tip i accept monero:
 
 ```
