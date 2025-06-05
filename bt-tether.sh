@@ -1,14 +1,8 @@
 #!/bin/bash
-# Author: 5T3W <github.com/c0d3-5t3w> under MIT License
-# --------------------------------------------------------------------
-# Description: A shell script to tether internet using bluetooth for Bjorn
-# --------------------------------------------------------------------
-# This script is an unofficial part of the Bjorn project.
-# Bjorn is a collection of scripts to automate the process of network penetration testing.
-# Created by INFINITION <github.com/infinition/Bjorn> under MIT license
-# --------------------------------------------------------------------
+
+# Author: C0D3-5T3W <github.com/C0d3-5t3w> under MIT License
+
 # Usage: sudo ./bt-tether.sh
-# --------------------------------------------------------------------
 
 # Check if user is root
 if [ "$EUID" -ne 0 ]
